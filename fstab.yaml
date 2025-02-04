@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149357-e1522213.adobeaemcloud.com/bin/franklin.delivery/Mounika-Jampala/aem-eds-poc-repo/main"
+    url: "https://author-p149357-e1522213.adobeaemcloud.com/bin/franklin.delivery/mounika-jampala/aem-eds-poc-repo/main"
     type: "markup"
     suffix: ".html"
